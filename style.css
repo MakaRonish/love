@@ -185,10 +185,10 @@ nav{
     grid-area: pic7;
 }
 .element8{
-    grid-area: pic9;
+    grid-area: pic8;
 }
 .element9{
-    grid-area: pic8;
+    grid-area: pic9;
 }
 .gallary:hover .Pictures{
     opacity: 1;
